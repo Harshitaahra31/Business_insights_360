@@ -24,7 +24,7 @@ Business Insights 360 is a dynamic and comprehensive Power BI dashboard develope
 ---
 
 #### **Live Dashboard**  
-Explore the live dashboard [here]((https://app.powerbi.com/view?r=eyJrIjoiMWUyYzg4NzgtYTAxMy00NDgyLTg4MzYtODQxOGEwN2I2YWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))  
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMWUyYzg4NzgtYTAxMy00NDgyLTg4MzYtODQxOGEwN2I2YWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -35,4 +35,4 @@ Explore the live dashboard [here]((https://app.powerbi.com/view?r=eyJrIjoiMWUyYz
 ---
 
 ####  **Project Outcome**
-By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+By using this report, decisions can be made based on the data. Further, it will help answer several why questions based on the situation.
