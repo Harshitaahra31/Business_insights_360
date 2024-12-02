@@ -1,6 +1,4 @@
-Here’s a professional and structured introduction based on the provided details for your GitHub README file:
 
----
 
 ### **Project: Business Insights 360 Power BI Dashboard**  
 
@@ -26,7 +24,7 @@ Business Insights 360 is a dynamic and comprehensive Power BI dashboard develope
 ---
 
 #### **Live Dashboard**  
-Explore the live dashboard [here](#). (*Replace `#` with the actual link.*)  
+Explore the live dashboard [here]((https://app.powerbi.com/view?r=eyJrIjoiMWUyYzg4NzgtYTAxMy00NDgyLTg4MzYtODQxOGEwN2I2YWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))  
 
 ---
 
